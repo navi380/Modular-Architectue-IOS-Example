@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-ModularExample/Pods-ModularExample-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Core/Core.framework
+${BUILT_PRODUCTS_DIR}/FirstModule/FirstModule.framework
+${BUILT_PRODUCTS_DIR}/SecondModule/SecondModule.framework

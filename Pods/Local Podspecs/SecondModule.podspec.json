@@ -1,0 +1,28 @@
+{
+  "name": "SecondModule",
+  "version": "0.1.0",
+  "summary": "A short description of SecondModule.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/navi380/SecondModule",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "navi380": "naveed.tahir@evampsaanga.com"
+  },
+  "source": {
+    "git": "https://github.com/navi380/SecondModule.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "SecondModule/**/*.{swift}",
+  "resources": "SecondModule/**/*.{xcassets,json,storyboard,xib,xcdatamodeld}",
+  "dependencies": {
+    "Core": [
+
+    ]
+  }
+}

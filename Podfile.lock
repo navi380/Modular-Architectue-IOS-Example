@@ -1,0 +1,41 @@
+PODS:
+  - Core (0.1.0)
+  - Data (0.1.0)
+  - FirstModule (0.1.0):
+    - Core
+  - FirstModule/Tests (0.1.0):
+    - Core
+  - Networking (0.1.0)
+  - SecondModule (0.1.0):
+    - Core
+
+DEPENDENCIES:
+  - Core (from `Modules/Core`)
+  - Data (from `Modules/Data`)
+  - FirstModule (from `Modules/FirstModule`)
+  - FirstModule/Tests (from `Modules/FirstModule`)
+  - Networking (from `Modules/Networking`)
+  - SecondModule (from `Modules/SecondModule`)
+
+EXTERNAL SOURCES:
+  Core:
+    :path: Modules/Core
+  Data:
+    :path: Modules/Data
+  FirstModule:
+    :path: Modules/FirstModule
+  Networking:
+    :path: Modules/Networking
+  SecondModule:
+    :path: Modules/SecondModule
+
+SPEC CHECKSUMS:
+  Core: 910531b5a7cf19b8110e72c358ad81fb7de006b3
+  Data: 99f74a2974ccbb5c21b795f9e985d555a5cd5a5f
+  FirstModule: 863a0e34b6e5253dfe47c1056c4817a51fa9f69a
+  Networking: f0405d3250b0b310b4f3ff67f9636193b6e1db1d
+  SecondModule: 84aba97a96839ae51d215b7fdd94f7c76c1eddcd
+
+PODFILE CHECKSUM: 578010c3d362f3badb1625249e60dad88263e6e8
+
+COCOAPODS: 1.11.2

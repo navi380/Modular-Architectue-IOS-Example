@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:ModularExample.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Modules/Core/Example/Core.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Modules/Data/Example/Data.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Modules/FirstModule/Example/FirstModule.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Modules/Networking/Example/Networking.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Modules/SecondModule/Example/SecondModule.xcodeproj">
+   </FileRef>
+</Workspace>

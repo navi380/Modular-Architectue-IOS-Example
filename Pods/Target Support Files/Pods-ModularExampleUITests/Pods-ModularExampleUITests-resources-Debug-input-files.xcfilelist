@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-ModularExampleUITests/Pods-ModularExampleUITests-resources.sh
+${PODS_ROOT}/../Modules/FirstModule/FirstModule/FirstModuleStoryBoard.storyboard
+${PODS_ROOT}/../Modules/SecondModule/SecondModule/SecondModuleStoryBoard.storyboard

@@ -1,0 +1,41 @@
+{
+  "name": "Core",
+  "version": "0.1.0",
+  "summary": "A short description of Core.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/navi380/Core",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "navi380": "naveed.tahir@evampsaanga.com"
+  },
+  "source": {
+    "git": "https://github.com/navi380/Core.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Core/**/*.{swift}",
+  "resources": "Core/**/*.{xcassets,json,storyboard,xib,xcdatamodeld}",
+  "testspecs": [
+    {
+      "name": "Tests",
+      "test_type": "unit",
+      "source_files": "Core/Tests/**/*.{swift}",
+      "dependencies": {
+        "Quick": [
+
+        ],
+        "Nimble": [
+
+        ],
+        "iOSSnapshotTestCase": [
+
+        ]
+      }
+    }
+  ]
+}
